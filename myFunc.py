@@ -1,4 +1,4 @@
-from numpy import *
+#from numpy import *
 
 def myFunc(a, b):
     print("myFunc executed!"+ str(a)+str(b))

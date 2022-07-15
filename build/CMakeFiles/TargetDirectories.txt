@@ -1,0 +1,3 @@
+/home/andrew/CLRF/c-python/build/CMakeFiles/rebuild_cache.dir
+/home/andrew/CLRF/c-python/build/CMakeFiles/callback.dir
+/home/andrew/CLRF/c-python/build/CMakeFiles/edit_cache.dir

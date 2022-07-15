@@ -6,9 +6,11 @@ int main() {
 	
 	Py_Initialize();
 	
-	//PyRun_SimpleString("import sys\n"
-	//				   "sys.path.insert(0, '/home/andrew/CLRF/c-python/')");
-	
+	PyRun_SimpleString("import sys\n"
+					   "sys.path.insert(0, '/home/andrew/CLRF/c-python/')");
+
+	PyRun_SimpleString("print(sys.path)");
+
 	PyObject *pModule = PyImport_ImportModule("myFunc");
 	if (pModule == NULL) {printf("Importing module failed\n"); exit(-1);}
 	
