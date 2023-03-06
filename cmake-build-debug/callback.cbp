@@ -34,8 +34,8 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/andrew/Programs/python-3.9.13/include/python3.9"/>
-					<Add directory="/home/andrew/Programs/python-3.9.13/lib/python3.9/site-packages/numpy/core/include"/>
+					<Add directory="/usr/include/python3.6m"/>
+					<Add directory="/home/andrew/.local/lib/python3.6/site-packages/numpy/core/include"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -59,8 +59,8 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/andrew/Programs/python-3.9.13/include/python3.9"/>
-					<Add directory="/home/andrew/Programs/python-3.9.13/lib/python3.9/site-packages/numpy/core/include"/>
+					<Add directory="/usr/include/python3.6m"/>
+					<Add directory="/home/andrew/.local/lib/python3.6/site-packages/numpy/core/include"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>

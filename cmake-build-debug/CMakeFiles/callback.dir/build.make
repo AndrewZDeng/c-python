@@ -79,15 +79,7 @@ callback_EXTERNAL_OBJECTS =
 
 callback: CMakeFiles/callback.dir/callback.c.o
 callback: CMakeFiles/callback.dir/build.make
-callback: /home/andrew/Programs/python-3.9.13/lib/libpython3.9.a
-callback: /usr/lib/x86_64-linux-gnu/libexpat.a
-callback: /usr/lib/x86_64-linux-gnu/libz.a
-callback: /usr/lib/x86_64-linux-gnu/libpthread.a
-callback: /usr/lib/x86_64-linux-gnu/libdl.a
-callback: /usr/lib/x86_64-linux-gnu/libutil.a
-callback: /usr/lib/x86_64-linux-gnu/libm.a
-callback: /usr/lib/x86_64-linux-gnu/libc.so
-callback: /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+callback: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
 callback: CMakeFiles/callback.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/andrew/CLRF/c-python/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable callback"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/callback.dir/link.txt --verbose=$(VERBOSE)

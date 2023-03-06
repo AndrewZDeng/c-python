@@ -10,8 +10,8 @@ set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/home/andrew/Programs/python-3.9.13/include/python3.9"
-  "/home/andrew/Programs/python-3.9.13/lib/python3.9/site-packages/numpy/core/include"
+  "/usr/include/python3.6m"
+  "/home/andrew/.local/lib/python3.6/site-packages/numpy/core/include"
   )
 
 # Targets to which this target links.

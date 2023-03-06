@@ -1,17 +1,14 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "/home/andrew/CLRF/c-python/callback.c" "/home/andrew/CLRF/c-python/build/CMakeFiles/callback.dir/callback.c.o"
-  )
-set(CMAKE_C_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/home/andrew/Programs/python-3.9.13/include/python3.9"
-  "/home/andrew/Programs/python-3.9.13/lib/python3.9/site-packages/numpy/core/include"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/andrew/mnt/CLRF/c-python/callback.c" "CMakeFiles/callback.dir/callback.c.o" "gcc" "CMakeFiles/callback.dir/callback.c.o.d"
   )
 
 # Targets to which this target links.

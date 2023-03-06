@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/callback.dir/callback.c.o"
-  "callback.pdb"
+  "CMakeFiles/callback.dir/callback.c.o.d"
   "callback"
+  "callback.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

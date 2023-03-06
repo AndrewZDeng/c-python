@@ -6,5 +6,5 @@ C_FLAGS = -g -fPIE
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/andrew/Programs/python-3.9.13/include/python3.9 -I/home/andrew/Programs/python-3.9.13/lib/python3.9/site-packages/numpy/core/include 
+C_INCLUDES = -I/usr/include/python3.6m -I/home/andrew/.local/lib/python3.6/site-packages/numpy/core/include 
 

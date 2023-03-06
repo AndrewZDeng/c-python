@@ -1,1 +1,1 @@
-/usr/bin/gcc -g   CMakeFiles/callback.dir/callback.c.o  -o callback /home/andrew/Programs/python-3.9.13/lib/libpython3.9.a /usr/lib/x86_64-linux-gnu/libexpat.a /usr/lib/x86_64-linux-gnu/libz.a /usr/lib/x86_64-linux-gnu/libpthread.a /usr/lib/x86_64-linux-gnu/libdl.a /usr/lib/x86_64-linux-gnu/libutil.a /usr/lib/x86_64-linux-gnu/libm.a -lc /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a -static 
+/usr/bin/gcc -g   CMakeFiles/callback.dir/callback.c.o  -o callback /usr/lib/x86_64-linux-gnu/libpython3.6m.so 
